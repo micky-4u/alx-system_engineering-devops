@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a  | xargs -n1 | tr '\n' ','
